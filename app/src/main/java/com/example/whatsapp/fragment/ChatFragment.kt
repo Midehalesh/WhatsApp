@@ -7,8 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.whatsapp.ListOfMessagesAdapter
-import com.example.whatsapp.adapters.ListOfFriendsAdapter
+import com.example.whatsapp.adapters.ListOfMessagesAdapter
 import com.example.whatsapp.R
 
 class ChatFragment : Fragment() {

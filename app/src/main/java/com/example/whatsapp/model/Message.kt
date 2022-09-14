@@ -1,7 +1,8 @@
 package com.example.whatsapp.model
 
 data class Message(
-    val username: String,
+    val sender: String,
     val time: String,
-    val message: String
+    val message: String,
+    val receiver: String
 )
